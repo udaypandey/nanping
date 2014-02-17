@@ -9,7 +9,7 @@ plist tweaks for ios builds
 
 ## Usage
 
-Provides few extra commands for ios build related to plist changes. Inspired from ![Shenzhen](https://github.com/nomad/shenzhen)
+Provides few extra commands for ios build related to plist changes. Inspired from [Shenzhen](https://github.com/nomad/shenzhen)
 
 nanping adds the `iosbuild` command to your PATH:
 
