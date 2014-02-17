@@ -15,7 +15,7 @@ nanping adds the `iosbuild` command to your PATH:
 
     $ iosbuild
 
-      Build and distribute iOS apps (.ipa files)
+      Tweak plist settings
 
       Commands:
          help                   Display global or [command] help documentation.
