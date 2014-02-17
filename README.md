@@ -18,17 +18,17 @@ nanping adds the `iosbuild` command to your PATH:
       Build and distribute iOS apps (.ipa files)
 
       Commands:
-         help                 Display global or [command] help documentation.
-         plist:buildnumber    Update build number properties in application plist file
-         plist:configure      Update properties in application plist file
-         plist:read           Read properties in application plist file
+         help                   Display global or [command] help documentation.
+         plist:buildnumber      Update build number properties in application plist file
+         plist:configure        Update properties in application plist file
+         plist:read             Read properties in application plist file
 
       Aliases:
 
       Global Options:
-        -h, --help           Display help documentation
-        -v, --version        Display version information
-        -t, --trace          Display backtrace when an error occurs
+        -h, --help              Display help documentation
+        -v, --version           Display version information
+        -t, --trace             Display backtrace when an error occurs
 
 ### Example Usage
 
