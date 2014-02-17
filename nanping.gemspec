@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.name        = "nanping"
   s.authors     = ["Uday Pandey"]
   s.email       = "uday.pandey@gmail.com"
-  s.homepage    = "http://www.thirstysea.com"
+  s.homepage    = "https://github.com/udaypandey/nanping"
   s.version     = Nanping::VERSION
   s.platform    = Gem::Platform::RUBY
   s.summary     = "nanping"

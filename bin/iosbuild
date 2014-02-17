@@ -14,7 +14,7 @@ program :version, Iosbuild::VERSION
 program :description, 'Tweak plist file for iOS apps'
 
 program :help, 'Author', 'Uday Pandey <uday.pandey@gmail.com>'
-program :help, 'Website', 'http://www.thirstysea.com'
+program :help, 'Website', 'https://github.com/udaypandey/nanping'
 program :help_formatter, :compact
 
 global_option('--verbose') { $verbose = true }
