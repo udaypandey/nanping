@@ -4,17 +4,16 @@ $:.push File.expand_path("../lib", __FILE__)
 require "nanping/version"
 
 Gem::Specification.new do |s|
-  s.name        = "iosbuild"
+  s.name        = "nanping"
   s.authors     = ["Uday Pandey"]
   s.email       = "uday.pandey@gmail.com"
   s.homepage    = "http://www.thirstysea.com"
   s.version     = Nanping::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.summary     = "iosbuild"
-  s.description = "CLI for tweaking plist files for Building & Distributing iOS Apps (.ipa Files)"
+  s.summary     = "nanping"
+  s.description = "CLI for tweaking plist files for iOS Apps"
 
   s.add_dependency "commander", "~> 4.1"
-  s.add_dependency "json", "~> 1.8"
 
   s.add_development_dependency "rake"
 
