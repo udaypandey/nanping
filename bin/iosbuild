@@ -6,7 +6,7 @@ Dotenv.load
 require 'commander/import'
 
 $:.push File.expand_path("../../lib", __FILE__)
-require 'iosbuild'
+require 'nanping'
 
 HighLine.track_eof = false # Fix for built-in Ruby
 
