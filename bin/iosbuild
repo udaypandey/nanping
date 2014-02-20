@@ -10,7 +10,7 @@ require 'nanping'
 
 HighLine.track_eof = false # Fix for built-in Ruby
 
-program :version, Iosbuild::VERSION
+program :version, Nanping::VERSION
 program :description, 'Tweak plist file for iOS apps'
 
 program :help, 'Author', 'Uday Pandey <uday.pandey@gmail.com>'
